@@ -1,5 +1,6 @@
 # 🚬 Lungthy Agent (AI Engine)
 **Hierarchical Multi-Agent System for Smoking Cessation Support**
+An agent for smokers who wants to quit smoking.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
